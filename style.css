@@ -1,0 +1,30 @@
+body{
+    background-color: #d0e0e3ff;
+}
+
+/* ---------- RING-CALENDAR STYLE ---------- */
+#canvas-container{
+  text-align: center;
+}
+
+#calCanvas{
+  text-align: center;
+  margin: auto;
+  display: block;
+  width: 80vw;
+  max-width: 800px;
+}
+
+
+
+/* ---------- FOOTER ---------- */
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    /* padding: 10px; */
+}
