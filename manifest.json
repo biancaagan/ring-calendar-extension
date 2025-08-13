@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Ring Calendar by Bianca Gan",
+    "version": "1.0",
+    "description": "A calendar inspired by the Ring-A-Date by Giorgio Della Beffa.",
+    "author": "Bianca Gan",
+    "chrome_url_overrides" : {
+      "newtab": "calendar-index.html"
+    },
+    "permissions": [
+      "storage"
+    ],
+    "icons": {
+    }
+  }
